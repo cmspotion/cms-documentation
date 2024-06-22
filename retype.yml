@@ -3,7 +3,7 @@ output: .retype
 url: documentation.cmspotion.com # Add your website here
 branding:
    title: CMS Potion
-   label: Docs!
+   label: Docs
 links:
    - text: Getting Started
      link: https://documentation.cmspotion.com/getting-started/
